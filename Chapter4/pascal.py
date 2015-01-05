@@ -5,7 +5,7 @@ def pascal(n) :
 		if n == 1:
 			return n
 		else :
-			return pascal(n-1)
+			return 
 
 
 for i in range(4):
